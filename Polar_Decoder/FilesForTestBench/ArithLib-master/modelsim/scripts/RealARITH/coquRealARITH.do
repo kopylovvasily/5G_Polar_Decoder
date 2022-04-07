@@ -1,1 +1,0 @@
-do compileRealARITH.do;quit;
